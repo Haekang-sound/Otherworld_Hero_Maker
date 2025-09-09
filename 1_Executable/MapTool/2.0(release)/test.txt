@@ -1,7 +1,0 @@
-3
-collider0
-D:\GA5th2Q_Project\BarleyTea\1_Executable\MapTool\1.4.1(release)\TileImage\Tile\collider0.png
-Tile.001
-D:\GA5th2Q_Project\BarleyTea\1_Executable\MapTool\1.4.1(release)\TileImage\Tile\Tile.001.png
-Building.002-2
-D:\GA5th2Q_Project\BarleyTea\1_Executable\MapTool\1.4.1(release)\TileImage\Building\Building.002-2.png

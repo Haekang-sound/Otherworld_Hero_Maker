@@ -1,2 +1,0 @@
-1
-interview_screen_bar_0,0,0,400,270,0.5,0.5,

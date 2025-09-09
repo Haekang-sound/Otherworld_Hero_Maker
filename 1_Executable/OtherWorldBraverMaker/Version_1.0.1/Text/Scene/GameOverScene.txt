@@ -1,2 +1,0 @@
-../Resource/UI/GameOver/gameOver.png
-../Resource/Sound/SFX/sfx_gameover.mp3

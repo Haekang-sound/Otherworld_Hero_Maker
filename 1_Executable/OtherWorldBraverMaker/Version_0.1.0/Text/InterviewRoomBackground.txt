@@ -1,5 +1,0 @@
-4
-Interview.Room.Background_0,0,0,428,310,0.5,0.5,
-Interview.Room.Background_1,428,0,856,310,0.5,0.5,
-Interview.Room.Background_2,0,310,428,620,0.5,0.5,
-Interview.Room.Background_3,428,310,856,620,0.5,0.5,

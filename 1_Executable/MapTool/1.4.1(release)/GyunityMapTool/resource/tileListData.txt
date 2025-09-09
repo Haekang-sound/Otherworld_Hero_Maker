@@ -1,9 +1,0 @@
-4
-144x72_1
-D:\GA5th2Q_Project\BarleyTea\5_Project\FlowerGarden\GyunityMapTool\resource\144x72_1.png
-144x72_2
-D:\GA5th2Q_Project\BarleyTea\5_Project\FlowerGarden\GyunityMapTool\resource\144x72_2.png
-144x72_3
-D:\GA5th2Q_Project\BarleyTea\5_Project\FlowerGarden\GyunityMapTool\resource\144x72_3.png
-144x72
-D:\GA5th2Q_Project\BarleyTea\5_Project\FlowerGarden\GyunityMapTool\resource\144x72.png

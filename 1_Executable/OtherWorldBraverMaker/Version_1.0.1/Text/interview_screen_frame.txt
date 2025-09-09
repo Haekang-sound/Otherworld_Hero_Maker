@@ -1,2 +1,0 @@
-1
-interview_screen_frame_0,0,0,421,417,0.5,0.5,

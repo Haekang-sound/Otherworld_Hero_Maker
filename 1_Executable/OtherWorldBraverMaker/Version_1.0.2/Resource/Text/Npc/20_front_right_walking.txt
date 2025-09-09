@@ -1,5 +1,0 @@
-4
-20_front_right_walking_0,0,0,200,200,0.5,0.5,
-20_front_right_walking_1,200,0,400,200,0.5,0.5,
-20_front_right_walking_2,400,0,600,200,0.5,0.5,
-20_front_right_walking_3,600,0,800,200,0.5,0.5,

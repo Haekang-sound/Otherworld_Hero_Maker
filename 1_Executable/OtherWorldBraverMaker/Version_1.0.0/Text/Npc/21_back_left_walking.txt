@@ -1,5 +1,0 @@
-4
-21_back_left_walking_8,0,0,200,200,0.5,0.5,
-21_back_left_walking_9,200,0,400,200,0.5,0.5,
-21_back_left_walking_10,400,0,600,200,0.5,0.5,
-21_back_left_walking_11,600,0,800,200,0.5,0.5,
