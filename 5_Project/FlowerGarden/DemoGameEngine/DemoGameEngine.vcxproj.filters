@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Test">
+      <UniqueIdentifier>{bd746fd8-b0c8-4b00-80c5-834570ad5b33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WinAPI">
+      <UniqueIdentifier>{1c92db4f-b79c-4282-9330-ff026c221870}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameProcess">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="EntryPoint">
+      <UniqueIdentifier>{dd568718-1374-4657-bacb-d18e41937cda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{7ee7d652-466c-46b9-bf29-e0838f1e7005}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{4888d4d8-288c-4995-9934-3b21b4f3e623}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Hero">
+      <UniqueIdentifier>{e5f36344-b76f-4c83-b748-1d16b007c37d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Police">
+      <UniqueIdentifier>{9cb872af-f7a2-4249-b30f-295e83ab6bc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Civillian">
+      <UniqueIdentifier>{92cc08a9-7b3d-4f26-8212-ead0697814f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Car">
+      <UniqueIdentifier>{21b27355-0f82-475e-92b4-f660de7e4217}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TileManager">
+      <UniqueIdentifier>{72e5b27a-8028-4e63-94c1-5cde81134c6c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameEngineDemo.cpp">
+      <Filter>GameProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="WinAPIInit.cpp">
+      <Filter>WinAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="Link.cpp">
+      <Filter>Test</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>EntryPoint</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Civillian.cpp">
+      <Filter>Object\Civillian</Filter>
+    </ClCompile>
+    <ClCompile Include="Hero.cpp">
+      <Filter>Object\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="Police.cpp">
+      <Filter>Object\Police</Filter>
+    </ClCompile>
+    <ClCompile Include="Car.cpp">
+      <Filter>Object\Car</Filter>
+    </ClCompile>
+    <ClCompile Include="TileManager.cpp">
+      <Filter>TileManager</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameEngineDemo.h">
+      <Filter>GameProcess</Filter>
+    </ClInclude>
+    <ClInclude Include="WinAPIInit.h">
+      <Filter>WinAPI</Filter>
+    </ClInclude>
+    <ClInclude Include="Link.h">
+      <Filter>Test</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Civillian.h">
+      <Filter>Object\Civillian</Filter>
+    </ClInclude>
+    <ClInclude Include="Hero.h">
+      <Filter>Object\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="Police.h">
+      <Filter>Object\Police</Filter>
+    </ClInclude>
+    <ClInclude Include="Car.h">
+      <Filter>Object\Car</Filter>
+    </ClInclude>
+    <ClInclude Include="TileManager.h">
+      <Filter>TileManager</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+3
+yeomryong_face_walkleft_6,392.75,0,785.5,185,0.5,0.5,
+yeomryong_face_walkleft_7,785.5,0,1178.25,185,0.5,0.5,
+yeomryong_face_walkleft_8,1178.25,0,1571,185,0.5,0.5,

@@ -1,0 +1,51 @@
+../Resource/a.png
+../Resource/b.png
+../Resource/c.png
+../Resource/d.png
+../Resource/e.png
+../Resource/TileExample.png
+BGM.mp3
+PowerRanger.mp3
+Rolling.mp3
+drumloop.wav
+swish.wav
+jaguar.wav
+C4-1.wav
+C#4-1.wav
+D4-1.wav
+D#4-1.wav
+E4-1.wav
+F4-1.wav
+F#4-1.wav
+G4-1.wav
+G#4-1.wav
+A4-1.wav
+A#4-1.wav
+B4-1.wav
+C5-1.wav
+../Resource/link.png
+../Resource/handle.png
+../Resource/back.png
+../Resource/area.png
+
+interface
+dll 만들기
+
+enum 길이만큼 채널 만들기
+
+enum 에 추가
+
+콜라이더 
+
+collision Manager layer 시스템
+
+collider 만들 때 중심점 + 너비, 높이 or 반지름
+업데이트 할 때마다 position, angle, scale 값 전달
+
+벡터 중심점 너비 + 높이
+점 4개
+
+만들기
+
+UI 팝업 (UI 묶음 만들기)
+콜라이더 만들기

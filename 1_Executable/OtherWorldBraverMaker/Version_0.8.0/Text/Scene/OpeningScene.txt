@@ -1,0 +1,17 @@
+../Resource/UI/dialog.png
+../Resource/UI/dialogGod.png
+../Resource/UI/CutScene/skipbutton.png
+../Resource/Sound/SFX/drumloop.wav
+../Resource/Sound/SFX/swish.wav
+../Resource/Sound/SFX/sfx_StageSelect_click.mp3
+../Resource/Sound/SFX/sfx_OnButton.mp3
+../Resource/Sound/SFX/sfx_buttonclick.mp3
+../Resource/Sound/SFX/sfx_dialog_1.mp3
+../Resource/Sound/SFX/sfx_dialog_2.mp3
+../Resource/Sound/SFX/sfx_dialog_3.mp3
+../Resource/UI/CutScene/Opening_1.png
+../Resource/UI/CutScene/Opening_2.png
+../Resource/UI/CutScene/Opening_3.png
+../Resource/UI/CutScene/Opening_4.png
+../Resource/UI/CutScene/Opening_5.png
+../Resource/UI/CutScene/Opening_6.png

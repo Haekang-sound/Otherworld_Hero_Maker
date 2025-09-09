@@ -1,0 +1,5 @@
+2
+Building.001-2
+../GyunityMapTool\resource\TileImage\Building\Building.001-2.png
+Building.002-2
+../GyunityMapTool\resource\TileImage\Building\Building.002-2.png

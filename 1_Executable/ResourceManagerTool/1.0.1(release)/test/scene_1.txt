@@ -1,0 +1,4 @@
+3
+Resource\c.png
+Resource\a.png
+Resource\b.png

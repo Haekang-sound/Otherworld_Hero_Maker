@@ -1,0 +1,5 @@
+4
+interviewLight_0,0,0,400,270,0.5,0.5,
+interviewLight_1,400,0,800,270,0.5,0.5,
+interviewLight_2,0,270,400,540,0.5,0.5,
+interviewLight_3,400,270,800,540,0.5,0.5,
