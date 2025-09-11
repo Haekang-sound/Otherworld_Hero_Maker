@@ -3,8 +3,8 @@
 
 # 자체 엔진 프로젝트 : 이세계 용사 메이커 (Otherworld Hero Maker)
 
-실행환경 : 86x, (Debug/Release)
-
+실행환경 : 86x, (Debug/Release)\
+실행파일 : FlowerGarden.sln\
 게임영상 : https://youtu.be/avXhfSrf8Zw
 
 ## 1. 프로젝트 개요
